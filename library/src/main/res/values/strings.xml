@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="support_report_issue">Report an issue</string>
+    <string name="support_title">Short summary</string>
+    <string name="support_description">What happened?</string>
+    <string name="support_category">Category</string>
+    <string name="support_priority">Priority</string>
+    <string name="support_cancel">Cancel</string>
+    <string name="support_submit">Submit</string>
+    <string name="support_close">Close</string>
+    <string name="support_success">Thanks — we got it.</string>
+    <string name="support_success_detail">A real human will look into this and get back to you.</string>
+</resources>

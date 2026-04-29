@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="support_report_issue">問題を報告</string>
+    <string name="support_title">概要</string>
+    <string name="support_description">何が起きましたか？</string>
+    <string name="support_category">カテゴリー</string>
+    <string name="support_priority">優先度</string>
+    <string name="support_cancel">キャンセル</string>
+    <string name="support_submit">送信</string>
+    <string name="support_close">閉じる</string>
+    <string name="support_success">ありがとうございます。受け付けました。</string>
+    <string name="support_success_detail">担当者が確認のうえご連絡いたします。</string>
+</resources>

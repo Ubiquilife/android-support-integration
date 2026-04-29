@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="support_report_issue">Mag-ulat ng problema</string>
+    <string name="support_title">Maikling buod</string>
+    <string name="support_description">Ano ang nangyari?</string>
+    <string name="support_category">Kategorya</string>
+    <string name="support_priority">Priyoridad</string>
+    <string name="support_cancel">Kanselahin</string>
+    <string name="support_submit">Ipasa</string>
+    <string name="support_close">Isara</string>
+    <string name="support_success">Salamat — natanggap namin.</string>
+    <string name="support_success_detail">May totoong tao na susuri at babalik sa iyo.</string>
+</resources>

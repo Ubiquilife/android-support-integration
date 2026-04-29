@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="support_report_issue">Pūrongo raruraru</string>
+    <string name="support_title">Whakarāpopototanga poto</string>
+    <string name="support_description">I aha?</string>
+    <string name="support_category">Kāwai</string>
+    <string name="support_priority">Whai mātāmua</string>
+    <string name="support_cancel">Whakakore</string>
+    <string name="support_submit">Tukuna</string>
+    <string name="support_close">Kati</string>
+    <string name="support_success">Ngā mihi — kua tae mai.</string>
+    <string name="support_success_detail">Ka tirohia e tētahi tangata, ka whakahokia atu ki a koe.</string>
+</resources>
